@@ -105,9 +105,6 @@ password: 123123,
 
 2. email: san@gmail.com, password: 123123
 
-### Video Link:
-`https://drive.google.com/file/d/1QHlc4whu6XQspO7QglBF1S_imVXpyapj/view?usp=share_link`
-
 ### How to run test cases
 
 1. To run all frontend test cases use `npm test`
